@@ -1,3 +1,7 @@
+Alyssa Nekritz
+
+February 10, 2020
+
 NOTES:
 scale = size of the projectm wants to figure out a way to zoom in on maps (ex: 100m, 30r)
 disaggregation = taking pieces of a data set (infers that it's a big sample/population, large scale)
