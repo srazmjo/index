@@ -14,4 +14,4 @@ Alyssa Nekritz
 
 ## Project 1
 
-1. [Project 1](https://github.com/alyssanekk/index/blob/master/project1.md) (Feb. 10)
+1. [Project 1](https://github.com/alyssanekk/index/blob/master/project1.md) (Feb. 12)
