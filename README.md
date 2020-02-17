@@ -8,6 +8,8 @@ Alyssa Nekritz
 
 [Llyod response](https://github.com/alyssanekk/index/blob/master/lloyd.md) (Feb. 10)
 
+[Wardrop response](https://github.com/alyssanekk/index/blob/master/wardrop.md) (Feb. 17)
+
 ## Workshop
 
 1. 
