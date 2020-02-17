@@ -12,7 +12,7 @@ Alyssa Nekritz
 
 ## Workshop
 
-1. 
+1. plots from the first days (plots, challenge question, other rscripts)
 
 ## Project 1
 
