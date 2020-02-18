@@ -13,7 +13,7 @@ Alyssa Nekritz
 ## Workshop
 
 1. Week 1 (Jan.22) - Introduction
-[mailman's journey](mailman's journey.png)
+[mailman's journey](https://github.com/alyssanekk/index/mailman's%20journey)
 2. Week 2 (Jan. 27) - Blumenstock, Perkel, Tatem
 [Jan. 31st Homework](homework jan31.png)
 3. Week 3 (Feb. 3) - Begin Project 1 Part 1, First Team Presenation
