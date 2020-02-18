@@ -13,7 +13,9 @@ Alyssa Nekritz
 ## Workshop
 
 1. Week 1 (Jan.22) - Introduction
+![mailman's journey](mailman's journey.png)
 2. Week 2 (Jan. 27) - Blumenstock, Perkel, Tatem
+![Jan. 31st Homework](homework jan31.png)
 3. Week 3 (Feb. 3) - Begin Project 1 Part 1, First Team Presenation
 4. Week 4 (Feb. 10) - Lloyd et al., Continue Project 1 Part 2
 5. Week 5 (Feb. 17) - Complete Project 1 Part 3, Wardrop
@@ -23,3 +25,4 @@ Alyssa Nekritz
 ## Project 1
 
 1. [Project 1](https://alyssanekk.github.io/index/project1) (Due Feb. 22)
+[r script for project 1](project1.R)
