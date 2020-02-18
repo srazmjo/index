@@ -2,11 +2,9 @@
 Alyssa Nekritz
 
 ## Administrative Subdivisions of Costa Rica
+The following image is the original outline for the subdivisions in Costa Rica. It was challenging to get the words to stop overlapping, but there are too many different label areas. I had trouble getting the layers correct as well.
 
-describe the image
-![](_____.png)
-
-challenges I had creating the plot - findings regarding investigation - reflection on your work - your process
+![Costa Rica Subdivisions](cri_pop.png)
 
 ## Population of Costa Rica's Counties
 
