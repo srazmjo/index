@@ -2,7 +2,7 @@
 Alyssa Nekritz
 
 ## Administrative Subdivisions of Costa Rica
-The following image is the original outline for the subdivisions in Costa Rica. It was challenging to get the words to stop overlapping, but there are too many different label areas. I had trouble getting the layers correct as well.
+The following image is the original outline for the subdivisions in Costa Rica. It was challenging to get the words to stop overlapping, but there are too many different label areas. I had trouble getting the layers correct as well. If the picture id downloaded however, you can zoom in and get a clearer view of the labelling.
 
 ![Costa Rica Subdivisions](costa_rica_homework.png)
 
@@ -16,8 +16,11 @@ The following image is the original outline for the subdivisions in Costa Rica. 
 
 ## Stretch Goals
 
-1.
+1. Costa Rica's Districts described in terms of Log of Population
 ![Stretch Goal 1](cri_pop19_logpop.png)
 
-2. 
+2. Costa Rica's Districts (Log of Populaiton) x-axis = longitude, y-axis = latitude
 ![Stretch Goal 2](cri_pop19_str2.png)
+
+3.
+![Stretch Goal 3](cri_pop19_str3.png)
