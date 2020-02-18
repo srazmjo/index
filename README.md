@@ -12,22 +12,14 @@ Alyssa Nekritz
 
 ## Workshop
 
-1. Jan. 22 - Introduction, 
-2. Jan. 24
-3. Jan. 27
-4. Jan. 29
-5. Jan. 31
-6. Feb. 3
-7. Feb. 5
-8. Feb. 7
-9. Feb. 10
-10. Feb. 13
-11. Feb. 15
-12. Feb. 17 (today)
+1. Week 1 (Jan.22) - Introduction
+2. Week 2 (Jan. 27) - Blumenstock, Perkel, Tatem
+3. Week 3 (Feb. 3) - Begin Project 1 Part 1, First Team Presenation
+4. Week 4 (Feb. 10) - Lloyd et al., Continue Project 1 Part 2
+5. Week 5 (Feb. 17) - Complete Project 1 Part 3, Wardrop
+6. Week 6 (Feb. 24) - Begin Project 2
 
-
-plots from the first days (plots, challenge question, other rscripts)
 
 ## Project 1
 
-1. [Project 1](https://alyssanekk.github.io/index/project1) (Feb. 12)
+1. [Project 1](https://alyssanekk.github.io/index/project1) (Due Feb. 22)
