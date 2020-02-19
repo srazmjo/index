@@ -23,4 +23,4 @@ The following image is the original outline for the subdivisions in Costa Rica. 
 ![Stretch Goal 2](cri_pop19_str2.png)
 
 3.
-![Stretch Goal 3](https://github.com/alyssanekk/index/CostaRica.gif)
+![Stretch Goal 3](https://github.com/alyssanekk/index/blob/master/CostaRica.gif)
