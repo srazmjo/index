@@ -14,9 +14,9 @@ Alyssa Nekritz
 
 1. Week 1 (Jan.22) - Introduction
 
-[plot practice](https://github.com/alyssanekk/index/plot2)
+[plot practice](https://alyssanekk.github.io/index/plot2.png)
 
-[mailman's journey](https://github.com/alyssanekk/index/mailman's%20journey)
+[mailman's journey](https://alyssanekk.github.io/index/mailman's journey.png)
 
 2. Week 2 (Jan. 27) - Blumenstock, Perkel, Tatem
 
