@@ -14,6 +14,12 @@ The following image is the original outline for the subdivisions in Costa Rica. 
 
 ![Costa Rica District Population](cri_pop19_adm2.png)
 
+## Costa Rica's population distribution over a geometric bar
+![](project_1_part3_filled.png)
+
+## Population Density on Costa Rica's each province
+![](project_1_part3_pop_density_map.png)
+
 ## Stretch Goals
 
 1. Costa Rica's Districts described in terms of Log of Population
