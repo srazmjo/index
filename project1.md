@@ -22,5 +22,5 @@ The following image is the original outline for the subdivisions in Costa Rica. 
 2. Costa Rica's Districts (Log of Populaiton) x-axis = longitude, y-axis = latitude
 ![Stretch Goal 2](cri_pop19_str2.png)
 
-3.
+3. Costa Rica 3-D Imagery
 ![Stretch Goal 3](CostaRica.gif)
