@@ -23,5 +23,3 @@ Alyssa Nekritz
 ## Project 1
 
 1. [Project 1](https://alyssanekk.github.io/index/project1) (Due Feb. 22)
-
-[r script for project 1](project1.R)
